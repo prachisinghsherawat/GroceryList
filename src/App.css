@@ -1,0 +1,71 @@
+
+body{
+    background-image: url("https://www.teahub.io/photos/full/331-3319844_best-light-blue-wallpaper-id-blue-background-design.jpg");
+    /* background-image: url("https://img.freepik.com/free-vector/blue-abstract-fluid-background-soft-design-concept-pastel-colors_41084-549.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.input{
+    height: 50px;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+input{
+    font-size: 20px;
+    width: 72%;
+    text-align: center;
+    padding: 5px;
+}
+
+#button1{
+    font-size: 21px;
+    width: 20%;
+    padding: 5px;
+    color: cornsilk;
+    border-radius: 8px;
+    background-color: rgb(36, 94, 121);
+}
+
+input:hover{
+    border: 3px solid rgb(36, 94, 121);;
+}
+
+
+#button1:hover{
+    border: 3px solid rgb(15, 40, 51);;
+}
+
+h1{
+    margin-left: 37%;
+    margin-top: 1%;
+    font-size: 48px;
+    color: rgb(36, 94, 121);
+    /* font-family: cursive; */
+}
+
+.list{
+    height: 33px;
+    width: 25%;
+    margin: auto;
+    margin-top: 2%;
+    margin-left: 35%;
+    font-size: 21px;
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 9px;
+    background-color: rgb(229, 242, 252);
+}
+
+#btn{
+    font-size: 15px;
+    background-color: rgb(2, 117, 138);
+    color: cornsilk;
+    border-radius: 8px;
+    border-color: rgb(36, 94, 121);
+}
